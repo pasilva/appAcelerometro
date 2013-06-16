@@ -1,0 +1,4 @@
+appAcelerometro
+===============
+
+aplicativo de acelerometro
